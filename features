@@ -1,0 +1,86 @@
+Home = {
+ top books horizontal slider
+ chategories: {
+     Veg
+     Non-Veg
+     Breakfast
+     Lunch
+     Dinner
+ }
+ all books
+ click on any book: {
+     book short discription: {
+        dislaying:{
+            food rating
+            how much taking time
+            language
+            discription
+            ingridients
+            direction
+        }
+         add to fav
+         button (start reading)
+     }
+     then navigate full recipie:{
+         dislaying:{
+            food rating
+            how much taking time
+            language
+            discription
+            ingridients
+            direction
+         }
+        features:{
+            add to fav
+            button (Complete)
+            food rating
+        }
+     }
+ }
+}
+
+Search = {
+    searching with Book_name
+     click on any book: {
+     book short discription: {
+        dislaying:{
+            food rating
+            how much taking time
+            language
+            discription
+            ingridients
+            direction
+        }
+         add to fav
+         button (start reading)
+     }
+     then navigate full recipie:{
+         dislaying:{
+            food rating
+            how much taking time
+            language
+            discription
+            ingridients
+            direction
+         }
+        features:{
+            add to fav
+            button (Complete)
+            food rating
+        }
+     }
+ }
+
+}
+
+Favourites = {
+    List Of All Favourites
+}
+
+settings = {
+    terms of uses
+    Contact us
+    About us
+    Give us rating & feedback
+
+}
